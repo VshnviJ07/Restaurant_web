@@ -18,11 +18,6 @@ A modern, responsive restaurant website showcasing menu items, categories, testi
 - **Contact Form** for users to send messages directly.
 - **Footer** with restaurant copyright information.
 
-## Screenshots
-
-![Showcase](https://i.postimg.cc/mgpwzmx9/about-photo.jpg)
-![Menu](https://i.postimg.cc/wTLMsvSQ/food-menu1.jpg)
-![Testimonials](https://i.postimg.cc/5Nrw360Y/male-photo1.jpg)
 
 ## Technologies Used
 
